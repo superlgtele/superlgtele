@@ -8,7 +8,7 @@
 
 :meat_on_bone: 사용 언어 : 
 
-<img src="C:\Users\김홍기\Desktop\superlgtele/Javascript.PNG" alt="Javascript" style="zoom:29%;" /><img src="C:\Users\김홍기\Desktop\superlgtele/Nodejs.PNG" alt="Nodejs" style="zoom:24%;" /><img src="C:\Users\김홍기\Desktop\superlgtele/C.PNG" alt="C" style="zoom:18%;" /><img src="C:\Users\김홍기\Desktop\superlgtele/Mongo.PNG" alt="Mongo" style="zoom:23%;" /><img src="C:\Users\김홍기\Desktop\superlgtele/Mysql.PNG" alt="Mysql" style="zoom:20%;" />
+<img src="https://user-images.githubusercontent.com/80046326/140975880-f48ec44f-4103-421e-89c5-d82a386a4730.PNG" alt="Javascript" style="zoom:25%;" /><img src="C:\Users\김홍기\Desktop\superlgtele/C.PNG" alt="C" style="zoom:18%;" /><img src="C:\Users\김홍기\Desktop\superlgtele/Mongo.PNG" alt="Mongo" style="zoom:23%;" /><img src="C:\Users\김홍기\Desktop\superlgtele/Mysql.PNG" alt="Mysql" style="zoom:20%;" />
 
 
 
